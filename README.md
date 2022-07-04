@@ -21,3 +21,9 @@ python SubmitTranslator.py
 - Enter your new file name
 
 Finish :)
+
+# Future 
+- add all languege in script 
+- write api for this program
+- support all text files
+- and more ...
